@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pigeon-Post/static/css/main.5e200a8a.css",
+    "main.js": "/Pigeon-Post/static/js/main.d15fbcfc.js",
+    "static/js/453.3247e1d6.chunk.js": "/Pigeon-Post/static/js/453.3247e1d6.chunk.js",
+    "static/media/loading2.gif": "/Pigeon-Post/static/media/loading2.dd1b8eff39eaf4ed8c80.gif",
+    "index.html": "/Pigeon-Post/index.html",
+    "main.5e200a8a.css.map": "/Pigeon-Post/static/css/main.5e200a8a.css.map",
+    "main.d15fbcfc.js.map": "/Pigeon-Post/static/js/main.d15fbcfc.js.map",
+    "453.3247e1d6.chunk.js.map": "/Pigeon-Post/static/js/453.3247e1d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e200a8a.css",
+    "static/js/main.d15fbcfc.js"
+  ]
+}
